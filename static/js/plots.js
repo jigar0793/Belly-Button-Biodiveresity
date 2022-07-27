@@ -65,7 +65,7 @@ function buildMetadata(sample) {
                 text: "Top 10 Bacteria Cultures Found",
                 font: {size: 24}
             },
-            paper_bgcolor: "#757171",
+            paper_bgcolor: "#fffff",
             xaxis: {title: "Sample Count"},
             yaxis: {title: "Sample ID", titlefont:{size: 12}},
             font: {color: 'black'}
@@ -91,7 +91,7 @@ function buildMetadata(sample) {
                 text: 'Bacteria Cultures Per Sample',
                 font: {size: 30}
             },
-            paper_bgcolor: "#757171",
+            paper_bgcolor: "#fffff",
             font: {color: 'black'},
             xaxis: {title: "OTU ID"},
             yaxis: {title: "Sample Count", titlefont:{size: 12}}
@@ -145,7 +145,7 @@ function buildMetadata(sample) {
                 }
             },
             annotations: "Scrubs per week",
-            paper_bgcolor: "#757171",
+            paper_bgcolor: "#fffff",
             font: {
                 size: 20,
                 font: {color: 'black'}
