@@ -19,3 +19,5 @@ The dashboard contains three charts:
 ## Summary
 
 The dashboard presents belly button bacterial data successfully.
+
+Link to dashboard is [Belly Button Biodiversity Dashboard](https://jigar0793.github.io/Belly-Button-Biodiversity/)
